@@ -1,5 +1,5 @@
 # kss-rails-example
-A simple rails integration of the [KSS Style Sheets](https://github.com/kneath/kss).
+A simple rails integration of the [KSS Knyle Style Sheets](https://github.com/kneath/kss).
 
 You can find the How-to for this project at this web address:
 
